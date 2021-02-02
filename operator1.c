@@ -7,5 +7,6 @@ int main()
         printf("%d\n",i);
         i++;
     }
+    printf("learning git");//this is not part of prog
     return 0;
 }
