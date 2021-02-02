@@ -7,7 +7,7 @@ int main()
         printf("%d\n",i);
         i++;
     }
-    printf("learning git");//this is not part of prog
+   //this is not part of prog
     printf("in the dev branch");
     return 0;
 }
